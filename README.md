@@ -10,7 +10,7 @@ Salmon Facepaint (Salmon_FP) is a small mod that adds facepaint to arma 3.
 * ACE3 - 3.12.5 - https://github.com/acemod/ACE3
 
 ### Bugs:
-* None reported
+* Faces will default for unknown reasons. I assume this is why BI never added these in the first place. 
 
 ### Version history:
 1.0 - Initial release
